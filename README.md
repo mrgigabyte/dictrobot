@@ -48,7 +48,8 @@ Unfortunately nope :(
 
 ## Contributors:
 * [Mr.Gigabyte](https://telegram.me/nandan).
-* Thanks to [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI/) for allowing me to use that as the wrapper for telegram's Bot API;.
+* Thanks to [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI/);.
+
 ## Contact
 If you have any questions regarding the bot/code/in-general please feel free to PM me on [here](https://telegram.me/nandan).<br>
 **PS: Let me know if you need a new feature/tweak in this bot, please don't hesitate to text me :)**
