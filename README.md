@@ -1,5 +1,5 @@
-#<p align="center">Telegram Dictionary Bot 
-<p align="center">A simple inline dictionary bot for [Telegram](https://telegram.org/) helping users to search meanings of the words 'instantly' anywhere, anytime.
+# Telegram Dictionary Bot 
+A simple inline dictionary bot for [Telegram](https://telegram.org/) helping users to search meanings of the words 'instantly' anywhere, anytime.
 
 
  * [ChangeLog!](#changelog)
@@ -12,8 +12,8 @@
  * [F.A.Q.](#faq)
  * [Contact](#contact)
 
-##ChangeLog!
-####Version 1.0 (current):
+## ChangeLog!
+#### Version 1.0 (current):
    * Basic code for setting up the bot instantly, still doesnt support languages other than English.
    
 ## Prerequisites
@@ -33,7 +33,7 @@
 This is an inline dictionary bot, meant to be used anywhere on Telegram instantly. Just simply mention the username of the bot followed by the word you want to search and you will have it! 
 
 
-<p align="center"> ![A basic idea](http://i.imgur.com/Wybfwe3.jpg)
+ ![A basic idea](http://i.imgur.com/Wybfwe3.jpg)
 
 
 ## Notes and restrictions
